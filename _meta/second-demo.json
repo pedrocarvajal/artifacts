@@ -1,10 +1,10 @@
 {
   "schema": 1,
   "slug": "second-demo",
-  "title": "Second Artifact",
+  "title": "second-demo",
   "created_at": "2026-11-03T11:40:20.907Z",
-  "updated_at": "2026-11-03T11:41:57.915Z",
-  "revision": 3,
+  "updated_at": "2026-11-03T11:42:31.774Z",
+  "revision": 4,
   "scan": "clean",
   "source": {
     "files": 1,
