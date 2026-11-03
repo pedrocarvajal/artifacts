@@ -1,0 +1,18 @@
+{
+  "schema": 1,
+  "slug": "llm-artifacts-demo",
+  "title": "LLM Artifacts Demo",
+  "created_at": "2026-11-03T11:37:55.947Z",
+  "updated_at": "2026-11-03T11:37:55.947Z",
+  "revision": 1,
+  "scan": "clean",
+  "source": {
+    "files": 3,
+    "bytes": 949,
+    "sha256": "9bd4d8fc4ac34c9e6f8b385b689c70343363207ddcfc41ac71dede989b431b11",
+    "entry": "index.html",
+    "excluded": []
+  },
+  "published_by": "pedrocarvajal",
+  "tool_version": "0.1.0"
+}
