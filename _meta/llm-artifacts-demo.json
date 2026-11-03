@@ -3,13 +3,13 @@
   "slug": "llm-artifacts-demo",
   "title": "LLM Artifacts Demo",
   "created_at": "2026-11-03T11:37:55.947Z",
-  "updated_at": "2026-11-03T11:38:52.259Z",
-  "revision": 2,
+  "updated_at": "2026-11-03T11:39:17.708Z",
+  "revision": 3,
   "scan": "clean",
   "source": {
     "files": 3,
-    "bytes": 938,
-    "sha256": "94dee7de23260d073f888889a0b1fa9375b01e69e5c68214ec828d8c6d95c585",
+    "bytes": 949,
+    "sha256": "9bd4d8fc4ac34c9e6f8b385b689c70343363207ddcfc41ac71dede989b431b11",
     "entry": "index.html",
     "excluded": []
   },
