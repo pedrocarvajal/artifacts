@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "slug": "llm-artifacts-demo",
+  "slug": "demo-renamed",
   "title": "LLM Artifacts Demo",
   "created_at": "2026-11-03T11:37:55.947Z",
-  "updated_at": "2026-11-03T11:39:17.708Z",
-  "revision": 3,
+  "updated_at": "2026-11-03T11:39:48.722Z",
+  "revision": 4,
   "scan": "clean",
   "source": {
     "files": 3,
