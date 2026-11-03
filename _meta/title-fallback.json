@@ -3,10 +3,8 @@
   "slug": "title-fallback",
   "title": "Title Fallback",
   "created_at": "2026-11-03T11:46:37.501Z",
-  "updated_at": "2026-11-03T11:46:40.330Z",
-  "revision": 2,
-  "ttl": "1h",
-  "expires_at": "2026-11-03T12:46:40.330Z",
+  "updated_at": "2026-11-03T11:46:45.887Z",
+  "revision": 3,
   "scan": "clean",
   "source": {
     "files": 1,
