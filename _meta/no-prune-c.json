@@ -1,0 +1,18 @@
+{
+  "schema": 1,
+  "slug": "no-prune-c",
+  "title": "No Prune C",
+  "created_at": "2026-11-03T12:04:45.842Z",
+  "updated_at": "2026-11-03T12:04:45.842Z",
+  "revision": 1,
+  "scan": "clean",
+  "source": {
+    "files": 1,
+    "bytes": 50,
+    "sha256": "48e720538a478d69a5f5f8c74ec8aec9aac76a1bea3f93e23c1f66c8e450cdaf",
+    "entry": "index.html",
+    "excluded": []
+  },
+  "published_by": "pedrocarvajal",
+  "tool_version": "0.1.0"
+}
