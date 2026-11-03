@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "slug": "ttl-demo",
+  "title": "ttl-demo",
+  "created_at": "2026-11-03T11:40:31.995Z",
+  "updated_at": "2026-11-03T11:40:31.995Z",
+  "revision": 1,
+  "ttl": "1s",
+  "expires_at": "2026-11-03T11:40:32.995Z",
+  "scan": "clean",
+  "source": {
+    "files": 1,
+    "bytes": 56,
+    "sha256": "22784cea5a1ad5e926463e57ffe2263fae1112faff6be525d434e3e5f65eb0f6",
+    "entry": "index.html",
+    "excluded": []
+  },
+  "published_by": "pedrocarvajal",
+  "tool_version": "0.1.0"
+}
