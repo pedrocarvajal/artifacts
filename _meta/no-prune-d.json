@@ -1,0 +1,18 @@
+{
+  "schema": 1,
+  "slug": "no-prune-d",
+  "title": "No Prune D",
+  "created_at": "2026-11-03T12:04:48.652Z",
+  "updated_at": "2026-11-03T12:04:48.652Z",
+  "revision": 1,
+  "scan": "clean",
+  "source": {
+    "files": 1,
+    "bytes": 50,
+    "sha256": "103497e7e6ab6c3b2823b5ca5369ba806df05ce2c38c67ae4fe4d30e1f98f716",
+    "entry": "index.html",
+    "excluded": []
+  },
+  "published_by": "pedrocarvajal",
+  "tool_version": "0.1.0"
+}
