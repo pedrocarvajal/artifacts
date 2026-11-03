@@ -1,0 +1,18 @@
+{
+  "schema": 1,
+  "slug": "llm-artifacts-final",
+  "title": "Final Check",
+  "created_at": "2026-11-03T11:49:06.913Z",
+  "updated_at": "2026-11-03T11:49:06.913Z",
+  "revision": 1,
+  "scan": "clean",
+  "source": {
+    "files": 1,
+    "bytes": 55,
+    "sha256": "f4256a3efc6d644733e1d5b235979abba84d1686d17537a6ee02b55ca51dac57",
+    "entry": "index.html",
+    "excluded": []
+  },
+  "published_by": "pedrocarvajal",
+  "tool_version": "0.1.0"
+}
